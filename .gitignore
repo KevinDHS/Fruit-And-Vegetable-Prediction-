@@ -1,0 +1,7 @@
+config.txt
+
+rideshare_kaggle.csv
+data_inf
+*.pkl
+*.txt
+*.csv
